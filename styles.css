@@ -1,0 +1,20 @@
+h1{
+  color: #FF1E00;
+  font: 50px 'TimesNewRoman';
+  text-align: center;
+}
+
+body{
+  text-align: center;
+  font: 15px 'Tahoma';
+  color: #000000;
+}
+a{
+  font: 40px 'Tahoma';
+  text-align: center;
+  color: #15220F;
+}
+img{
+  width: 1000px;
+  height: 750px;
+}
